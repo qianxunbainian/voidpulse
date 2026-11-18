@@ -1,5 +1,9 @@
 # VOIDPULSE — Neon Arena Survival
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/qianxunbainian/voidpulse/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/qianxunbainian/voidpulse/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 An original twin-stick arena survival game in dependency-free JavaScript.
 The void is spawning shapes again; you are the last bright thing in it.
 Fly, shoot, dash through danger, gather the energy your kills spill, and
@@ -58,3 +62,7 @@ combo — and your score multiplier — alive.
   a later wave, and the results screen.
 
 MIT licensed — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=nypxb97t&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
